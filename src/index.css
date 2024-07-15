@@ -1,0 +1,11 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(to bottom, #490102, #0d0a09);
+    height: 100vh;
+    margin: 0;
+  }
+
+.card-layout {
+  background: linear-gradient(to bottom, #270a0a, #0e0e0e);
+  height: 100vh;
+}

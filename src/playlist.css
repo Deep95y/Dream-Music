@@ -1,0 +1,18 @@
+
+.table-container {
+    width: 100%;
+}
+
+.table-row {
+    transition: background-color 0.3s ease;
+    padding: 0%;
+}
+
+.table-row:hover {
+    background-color: maroon;
+}
+
+.table-row.clicked {
+    background-color: maroon;
+}
+
